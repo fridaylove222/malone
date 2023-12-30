@@ -14,3 +14,4 @@ k!ller
 boots
 sex
 god
+stup!d
