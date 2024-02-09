@@ -10,7 +10,7 @@ ok ok
 !nj
 superstory
 glock 5
-k!ller
+k!ller looks
 boots
 sex
 god
