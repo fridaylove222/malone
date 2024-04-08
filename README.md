@@ -16,3 +16,4 @@ sex
 god
 stup!d
 booze
+luv lasts 4eva
